@@ -1,5 +1,6 @@
 # SSH: A Self-Supervised Framework for Image Harmonization (ICCV 2021)
-code for [SSH](https://arxiv.org/abs/2108.06805)
+We provide the inference code and collected Dataset for [Self-supervised Image Harmonization](https://arxiv.org/abs/2108.06805)
+![Dataset_Pipeline](./dataset_pipeline.png)
 
 ## Representative Examples
 ![Visual_Examples](./example.png)
