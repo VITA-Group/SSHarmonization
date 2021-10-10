@@ -9,8 +9,9 @@ Download the [RealHM dataset](https://drive.google.com/file/d/1lko-0Lp_IMFgSEz4D
 ## Main Pipeline
 ![Pipeline](./pipeline.png)
 
+## Dataset Pipeline
 <div>
-	<img src="./dataset.png" alt="Editor" width="60%">
+	<img src="./dataset.png" alt="Editor" width="70%">
 </div>
 
 ## Citation
