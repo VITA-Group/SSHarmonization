@@ -4,7 +4,7 @@ We provide the inference code and collected Dataset for [Self-supervised Image H
 ## Guideline
 Download the [RealHM dataset](https://drive.google.com/file/d/1lko-0Lp_IMFgSEz4DN5ix9lllY79pmT-/view?usp=sharing) and put it on `../RealH`', then download the [pretrained weight](https://drive.google.com/file/d/1DPK6w0RK6HerpAdEG3NlyRo6rqaXwidX/view?usp=sharing) and put it on `./checkpoint`. Then Run the `demo.ipynb`.
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 ## updates
 add environment file (Feb. 2022)
