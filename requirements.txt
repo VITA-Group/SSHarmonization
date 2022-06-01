@@ -1,3 +1,6 @@
-colour-checker-detection=0.1.1
-colour-science=0.3.15
-torch=1.7
+colour-checker-detection==0.1.1
+colour-science==0.3.15
+torch==1.7
+matplotlib==3.3.4
+torchvision==0.8.0
+opencv-python==4.5.5
