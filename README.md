@@ -25,10 +25,11 @@ Bugs are fixed in the newest version (Jan. 2022)
 
 ## Citation
 ```
-@article{jiang2021ssh,
-  title={SSH: A Self-Supervised Framework for Image Harmonization},
+@inproceedings{jiang2021ssh,
+  title={Ssh: A self-supervised framework for image harmonization},
   author={Jiang, Yifan and Zhang, He and Zhang, Jianming and Wang, Yilin and Lin, Zhe and Sunkavalli, Kalyan and Chen, Simon and Amirghodsi, Sohrab and Kong, Sarah and Wang, Zhangyang},
-  journal={arXiv preprint arXiv:2108.06805},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={4832--4841},
   year={2021}
 }
 ```
