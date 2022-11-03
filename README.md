@@ -2,8 +2,8 @@
 We provide the inference code and collected Dataset for [Self-supervised Image Harmonization](https://arxiv.org/abs/2108.06805)
 
 ## Guideline
-Download the [RealHM dataset](https://drive.google.com/file/d/1lko-0Lp_IMFgSEz4DN5ix9lllY79pmT-/view?usp=sharing) and put it on `../RealH`'. 
-Ddownload the [pretrained weight](https://drive.google.com/file/d/1DPK6w0RK6HerpAdEG3NlyRo6rqaXwidX/view?usp=sharing) and put it on `./`.  
+Download the [RealHM dataset](https://drive.google.com/file/d/1jBx-DBtRX8GaqMvMv-CZutK4jn9tz-fT/view?usp=sharing) and put it on `../RealH`'. 
+Ddownload the [pretrained weight](https://drive.google.com/file/d/19OtBUedEM3QnsUEn0ECxFCmlU0mzDRcT/view?usp=share_link) and put it on `./`.  
 Create directory `output`. 
 Then Run the `demo.ipynb`.
 ```
